@@ -18,7 +18,7 @@ It might also be interesting to allow people to create their own contract withou
 
         <!-- CSS, ICONS AND BOOTSTRAP -->
         <link rel="stylesheet" href="https://bootswatch.com/4/pulse/bootstrap.min.css" />
-        <link rel="stylesheet" href="assets/css/world.css" />
+        <link rel="stylesheet" href="assets/css/arcadium.css" />
         <link rel="icon" type="image/png" href="assets/img/etc.png">
 
         <!-- FontAwesome -->
@@ -53,7 +53,6 @@ It might also be interesting to allow people to create their own contract withou
                                 <div class="row">
                                     <div class="col text-left">
                                         <p class="text-white">
-                                          <textarea class="span6" rows="3" placeholder="What's up?" required></textarea>
                                         </p>
                                     </div>
                                 </div>
