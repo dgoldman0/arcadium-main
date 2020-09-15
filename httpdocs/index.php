@@ -53,6 +53,7 @@ It might also be interesting to allow people to create their own contract withou
                                 <div class="row">
                                     <div class="col text-left">
                                         <p class="text-white">
+                                          <textarea class="span6" rows="3" placeholder="What's up?" required></textarea>
                                         </p>
                                     </div>
                                 </div>
