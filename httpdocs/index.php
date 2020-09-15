@@ -47,7 +47,7 @@ It might also be interesting to allow people to create their own contract withou
             <div class="row">
                 <div class="col-md-9">
                     <div class="card glassPanel border-light rcAll">
-                        <div class="card-header glassPanel text-white rcTop">Introduction</div>
+                        <div class="card-header glassPanel text-white rcTop">Game Mode</div>
                         <div class="card-body">
                             <div class="container">
                                 <div class="row">
@@ -61,7 +61,7 @@ It might also be interesting to allow people to create their own contract withou
                         <div class="card-footer glassPanel rcBottom">
                             <div class="row">
                                 <div class="col text-center">
-                                  <input type = "text" width = "100%" style = "display: flex; flex: 1;"></input>
+                                  <input type = "text" style = "width: 100%; display: flex; flex: 1;"></input>
                                 </div>
                             </div>
                         </div>
@@ -70,7 +70,7 @@ It might also be interesting to allow people to create their own contract withou
 
                 <div class="col-md-3">
                     <div class="card glassPanel border-light rcAll">
-                        <div class="card-header glassPanel text-white rcTop">Game</div>
+                        <div class="card-header glassPanel text-white rcTop">Players</div>
                         <div class="card-body">
                             <div class="container">
                                 <div class="row">
