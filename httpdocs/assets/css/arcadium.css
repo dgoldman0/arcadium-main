@@ -40,7 +40,7 @@ html, body {
 }
 
 .gameArea {
-  width: 100%;
+  background-color: white;
   border-width: 2px;
   border-style: groove;
 }

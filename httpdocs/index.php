@@ -51,9 +51,8 @@ It might also be interesting to allow people to create their own contract withou
                         <div class="card-body">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col text-left">
-                                        <p class="text-white">
-                                        </p>
+                                    <div class="col text-left gameArea">
+                                      Connecting to server...
                                     </div>
                                 </div>
                             </div>
