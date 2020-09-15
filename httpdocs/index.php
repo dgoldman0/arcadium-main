@@ -73,12 +73,9 @@ It might also be interesting to allow people to create their own contract withou
                         <div class="card-body">
                             <div class="container">
                                 <div class="row">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card-footer glassPanel rcBottom">
-                            <div class="row">
-                                <div class="col text-center">
+                                  <select>
+                                    <option value = "user">User #1</option>
+                                  </select>
                                 </div>
                             </div>
                         </div>
