@@ -14,12 +14,10 @@
                         <a class="dropdown-item text-white" href="https://nolex.org/main/ARCTRX.html?ref=5f27039c6766fa6f943137be"> ARC on NoleX</a>
                     </div>
                 </li>
-                <li class="nav-item"><a class="nav-link" href="forge.php"><i class="fas fa-fire-alt text-white"></i> Forge</a></li>
-                <li class="nav-item"><a class="nav-link" href="wrapped.php"><i class="fas fa-arrows-alt-h text-white"></i> WWRLD</a></li>
             </ul>
 
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link" href="https://twitter.com/wrldcoin" target="_blank"><i class="fab fa-twitter text-white"></i> Twitter</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://twitter.com/arcadium" target="_blank"><i class="fab fa-twitter text-white"></i> Twitter</a></li>
                 <li class="nav-item"><a class="nav-link" href="/wrld-whitepaper.pdf" target="_blank"><i class="fas fa-file-contract text-white"></i> Whitepaper</a></li>
                 <!--<li class="nav-item"><a class="nav-link" href="https://github.com/#" target="_blank"><i class="fab fa-github text-white"></i> GitHub</a></li>
                 <li class="nav-item"><a class="nav-link" href="#" target="_blank"><i class="fas fa-search-dollar text-white"></i> Contract</a></li>-->

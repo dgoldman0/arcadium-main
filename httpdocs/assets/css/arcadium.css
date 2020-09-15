@@ -40,7 +40,9 @@ html, body {
 }
 
 .gameArea {
+  height: 300px;
   background-color: white;
   border-width: 2px;
   border-style: groove;
+  overflow-y: scroll;
 }
