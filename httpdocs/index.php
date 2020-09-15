@@ -45,12 +45,6 @@ It might also be interesting to allow people to create their own contract withou
             </div>
 
             <div class="row">
-                <div class="col-md-2">
-                    <select id = "token" name = "token"></select><br />
-                    <small class="text-white">Select Token</small>
-                </div>
-
-            <div class="row">
                 <div class="col-md-9">
                     <div class="card glassPanel border-light rcAll">
                         <div class="card-header glassPanel text-white rcTop">Introduction</div>
