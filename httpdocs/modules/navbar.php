@@ -11,7 +11,7 @@
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-toolbox text-white"></i> External</a>
                     <div class="dropdown-menu bg-primary" aria-labelledby="dropdown04">
                         <a class="dropdown-item text-white" href="https://wrldcoin.io"> World Builder</a>
-                        <a class="dropdown-item text-white" href="https://nolex.org/main/WRLDTRX.html?ref=5f27039c6766fa6f943137be"> WRLD on NoleX</a>
+                        <a class="dropdown-item text-white" href="https://nolex.org/main/ARCTRX.html?ref=5f27039c6766fa6f943137be"> ARC on NoleX</a>
                     </div>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="forge.php"><i class="fas fa-fire-alt text-white"></i> Forge</a></li>
