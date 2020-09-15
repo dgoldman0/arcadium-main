@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-        <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" width="30px" height="30px" /> wrldcoin.io</a>
+        <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" width="30px" height="30px" /> Arcadium</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -10,7 +10,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-toolbox text-white"></i> External</a>
                     <div class="dropdown-menu bg-primary" aria-labelledby="dropdown04">
-                        <a class="dropdown-item text-white" href="http://worldbuilder.fun/"> Mini Games</a>
+                        <a class="dropdown-item text-white" href="https://wrldcoin.io"> World Builder</a>
                         <a class="dropdown-item text-white" href="https://nolex.org/main/WRLDTRX.html?ref=5f27039c6766fa6f943137be"> WRLD on NoleX</a>
                     </div>
                 </li>
