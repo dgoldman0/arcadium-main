@@ -61,7 +61,7 @@ It might also be interesting to allow people to create their own contract withou
                         <div class="card-footer glassPanel rcBottom">
                             <div class="row">
                                 <div class="col text-center">
-                                  <input type = "text" style = "display: flex; flex: 1;"></input>
+                                  <input type = "text" width = "100%" style = "display: flex; flex: 1;"></input>
                                 </div>
                             </div>
                         </div>
