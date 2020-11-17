@@ -58,44 +58,45 @@ It might also be interesting to allow people to create their own contract withou
                 </div>
                 <div class="col-md-3">
                     <div class="card glassPanel border-light rcAll">
-                      <div class="card-header glassPanel text-white rcTop">Commands</div>
-                        <div class="card-body text-white">
-                          <b>Basic Commands</b>
-                          <br/>
-                          !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
-                          <br/>
-                          <br/>
-                          !shoo - If I'm in your channel and want me to leave, no problem.
-                          <br/>
-                          <br/>
-                          <b>Food Stuff</b>
-                          <br/>
-                          <br/>
-                          !omakase - Serve a random type of sushi
-                          <br/>
-                          <br/>
-                          !snack - Serve a random snack
-                          <br/>
-                          <br/>
-                          !cheese - Everyone likes cheese, right?
-                          <br/>
-                          <br/>
-                          !nomu - Serve a random alcoholic beverage. Drink responsibly
-                          <br/>
-                          <br/>
-                          <b>Pog Evolutions</b>
-                          <br/>
-                          This is a very simple game where you can vote for various pog evolution forms.
-                          <br/>
-                          <br/>
-                          !ereset - Used by channel mods to reset voting
-                          <br/>
-                          <br/>
-                          !elist - List current voting results
-                          <br/>
-                          <br/>
-                          !evote from to - Take a vote from one evolution and give it to another
-                        </div>
+                      <div class="card-header glassPanel text-white rcTop">Basic Commands</div>
+                      <div class="card-body text-white">
+                        !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
+                        <br/>
+                        <br/>
+                        !shoo - If I'm in your channel and want me to leave, no problem.
+                        <br/>
+                        <br/>
+                        <b>Food Stuff</b>
+                        <br/>
+                        <br/>
+                        !omakase - Serve a random type of sushi
+                        <br/>
+                        <br/>
+                        !snack - Serve a random snack
+                        <br/>
+                        <br/>
+                        !cheese - Everyone likes cheese, right?
+                        <br/>
+                        <br/>
+                        !nomu - Serve a random alcoholic beverage. Drink responsibly
+                      </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card glassPanel border-light rcAll">
+                      <div class="card-header glassPanel text-white rcTop">Pog Evolutions</div>
+                      <div class="card-body text-white">
+                        This is a very simple game where you can vote for various pog evolution forms.
+                        <br/>
+                        <br/>
+                        !ereset - Used by channel mods to reset voting
+                        <br/>
+                        <br/>
+                        !elist - List current voting results
+                        <br/>
+                        <br/>
+                        !evote from to - Take a vote from one evolution and give it to another
+                      </div>
                     </div>
                 </div>
             </div>
