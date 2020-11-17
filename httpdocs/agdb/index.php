@@ -1,8 +1,3 @@
-<!--
-I want to allow someone to enter a custom token address. That one will be easy to implement through a selector option "custom" which temporarily adds. I also want to create a whitelist system.
-
-It might also be interesting to allow people to create their own contract without coding, using a basic form to enter some details, kind of like JustSwap. I'd have to learn how to custom compile code though.
--->
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -45,7 +40,38 @@ It might also be interesting to allow people to create their own contract withou
             </div>
 
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-9">
+                    <div class="card glassPanel border-light rcAll">
+                        <div class="card-header glassPanel text-white rcTop">Game Info</div>
+                        <div class="card-body">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col text-left gameArea">
+                                      Connecting to server...
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer glassPanel rcBottom">
+                            <div class="row">
+                                <div class="col text-center">
+                                  <input type = "text" style = "width: 100%; display: flex; flex: 1;"></input>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="card glassPanel border-light rcAll">
+                        <div class="card-header glassPanel text-white rcTop">Search</div>
+                        <div class="card-body">
+                            <div class="container">
+                                <div class="row">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

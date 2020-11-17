@@ -37,15 +37,45 @@ It might also be interesting to allow people to create their own contract withou
                 <div class="container">
                     <div class="row">
                         <div class="col text-left">
-                            <h1 class="text-white">Arcadium Engine</h1>
-                            <p class="text-success">A fun gaming and entertainment experience for blockchain professionals and novices alike.</p>
+                            <h1 class="text-white">Arcadium Bot</h1>
+                            <p class="text-success">Arcadium Bot is a Twitch bot with a lot of fun commands.</p>
                         </div>
                     </div>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-3">
+                    <div class="card glassPanel border-light rcAll">
+                      <div class="card-header glassPanel text-white rcTop">Commands</div>
+                        <div class="card-body">
+                          <b>Basic Commands</b>
+                          <br/>
+                          !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
+                          <br/>
+                          !shoo - If I'm in your channel and want me to leave, no problem.
+                          <br/>
+                          <b>Food Stuff</b>
+                          <br/>
+                          !omakase - Serve a random type of sushi
+                          <br/>
+                          !snack - Serve a random snack
+                          <br/>
+                          !cheese - Everyone likes cheese, right?
+                          <br/>
+                          !nomu - Serve a random alcoholic beverage. Drink responsibly
+                          <br/>
+                          <b>Pog Evolutions</b>
+                          <br/>
+                          This is a very simple game where you can vote for various pog evolution forms.
+                          <br/>
+                          !ereset - Used by channel mods to reset voting
+                          <br/>
+                          !elist - List current voting results
+                          <br/>
+                          !evote from to - Take a vote from one evolution and give it to another
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
