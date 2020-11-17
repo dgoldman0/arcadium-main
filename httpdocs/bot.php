@@ -45,33 +45,54 @@ It might also be interesting to allow people to create their own contract withou
             </div>
 
             <div class="row">
+              <div class="col-md-6">
+                  <div class="card glassPanel border-light rcAll">
+                    <div class="card-header glassPanel text-white rcTop">About</div>
+                    <div class="card-body text-white">
+                      Arcadium_bot is a Twitch bot developed for the Arcadium project. It's still in its early stages of development, but will be available for use by anyone who wants it. Additionally, there will be numerous features that can be used only on Arcadium_bot's own stream, which will eventually stream continuously in the future.
+                      <br/>
+                      <br/>
+                      <b>Twitch: </b> <a href = "https://www.twitch.tv/arcadium_bot">@arcadium_bot</a>
+                    </div>
+                  </div>
+                </div>
                 <div class="col-md-3">
                     <div class="card glassPanel border-light rcAll">
                       <div class="card-header glassPanel text-white rcTop">Commands</div>
-                        <div class="card-body">
+                        <div class="card-body text-white">
                           <b>Basic Commands</b>
                           <br/>
                           !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
                           <br/>
+                          <br/>
                           !shoo - If I'm in your channel and want me to leave, no problem.
+                          <br/>
                           <br/>
                           <b>Food Stuff</b>
                           <br/>
+                          <br/>
                           !omakase - Serve a random type of sushi
+                          <br/>
                           <br/>
                           !snack - Serve a random snack
                           <br/>
+                          <br/>
                           !cheese - Everyone likes cheese, right?
                           <br/>
+                          <br/>
                           !nomu - Serve a random alcoholic beverage. Drink responsibly
+                          <br/>
                           <br/>
                           <b>Pog Evolutions</b>
                           <br/>
                           This is a very simple game where you can vote for various pog evolution forms.
                           <br/>
+                          <br/>
                           !ereset - Used by channel mods to reset voting
                           <br/>
+                          <br/>
                           !elist - List current voting results
+                          <br/>
                           <br/>
                           !evote from to - Take a vote from one evolution and give it to another
                         </div>

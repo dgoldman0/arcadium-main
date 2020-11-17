@@ -17,7 +17,7 @@
             </ul>
 
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link" href="/agdb/index.php" target="_blank"><i class="fas fa-toolbox text-white"></i> AGDB</a></li>
+                <li class="nav-item"><a class="nav-link" href="/bot.php" target="_blank"><i class="fas fa-toolbox text-white"></i> Twitch Bot</a></li>
                 <li class="nav-item"><a class="nav-link" href="https://twitter.com/arcadium0" target="_blank"><i class="fab fa-twitter text-white"></i> Twitter</a></li>
                 <li class="nav-item"><a class="nav-link" href="/wrld-whitepaper.pdf" target="_blank"><i class="fas fa-file-contract text-white"></i> Whitepaper</a></li>
                 <!--<li class="nav-item"><a class="nav-link" href="https://github.com/#" target="_blank"><i class="fab fa-github text-white"></i> GitHub</a></li>
