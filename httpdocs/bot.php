@@ -64,21 +64,6 @@ It might also be interesting to allow people to create their own contract withou
                         <br/>
                         <br/>
                         !shoo - If I'm in your channel and want me to leave, no problem.
-                        <br/>
-                        <br/>
-                        <b>Food Stuff</b>
-                        <br/>
-                        <br/>
-                        !omakase - Serve a random type of sushi
-                        <br/>
-                        <br/>
-                        !snack - Serve a random snack
-                        <br/>
-                        <br/>
-                        !cheese - Everyone likes cheese, right?
-                        <br/>
-                        <br/>
-                        !nomu - Serve a random alcoholic beverage. Drink responsibly
                       </div>
                     </div>
                 </div>
@@ -98,6 +83,34 @@ It might also be interesting to allow people to create their own contract withou
                         !evote from to - Take a vote from one evolution and give it to another
                       </div>
                     </div>
+                </div>
+            </div>
+            <div class="row">
+              <div class="col-md-3">
+                <div class="card glassPanel border-light rcAll">
+                  <div class="card-header glassPanel text-white rcTop">Tournaments</div>
+                  <div class="card-body text-white">
+                    This is a work in progress battle simulator. Right now there's only one option: single elimination tournaments. Eventually there will be more options, you'll be able to rank up as a player, and you'll eventually get rewards too.<hr/>
+                    !newbattle [players] - a mod can start a new battle for the channel
+                    <br/></br>
+                    !brawl - join a battle that's waiting to start
+                  </div>
+              </div>
+              <div class="col-md-3">
+                <div class="card glassPanel border-light rcAll">
+                  <div class="card-header glassPanel text-white rcTop">Food Options</div>
+                  <div class="card-body text-white">
+                    !omakase - Serve a random type of sushi
+                    <br/>
+                    <br/>
+                    !snack - Serve a random snack
+                    <br/>
+                    <br/>
+                    !cheese - Everyone likes cheese, right?
+                    <br/>
+                    <br/>
+                    !nomu - Serve a random alcoholic beverage. Drink responsibly
+                  </div>
                 </div>
             </div>
         </div>
