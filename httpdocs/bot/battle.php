@@ -57,6 +57,7 @@ $db = $m->selectDB("bot-battles");
                       <table>
                         <tr>
                           <th>Battle ID</th>
+                          <th>Battle Type</th>
                           <th>Winner</th>
                         </tr>
                         <?php
@@ -68,6 +69,7 @@ $db = $m->selectDB("bot-battles");
                               ?>
                               <tr>
                                 <td>$cursor->_id</td>
+                                <td>$cursor->type</td>
                                 <td>$cursor->winner</td>
                               </tr>
                               <?php
