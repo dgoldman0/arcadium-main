@@ -95,6 +95,7 @@ It might also be interesting to allow people to create their own contract withou
                     <br/></br>
                     !brawl - join a battle that's waiting to start
                   </div>
+                </div>
               </div>
               <div class="col-md-3">
                 <div class="card glassPanel border-light rcAll">
@@ -112,6 +113,7 @@ It might also be interesting to allow people to create their own contract withou
                     !nomu - Serve a random alcoholic beverage. Drink responsibly
                   </div>
                 </div>
+              </div>
             </div>
         </div>
 
