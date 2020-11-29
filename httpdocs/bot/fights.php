@@ -9,15 +9,14 @@ It might also be interesting to allow people to create their own contract withou
 $servername = "98.15.196.137";
 $username = "arcadium";
 $password = "password";
-
+$dbname = "arcadium_battles";
 // Create connection
-$conn = new mysqli($servername, $username, $password);
+$conn = new mysqli($servername, $username, $password, $dbname);
 
 // Check connection
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
-mysql_select_db('arcadium_battles', $conn);
 ?>
 
 <!DOCTYPE html>
