@@ -34,15 +34,15 @@ if ($conn->connect_error) {
 
         <!-- CSS, ICONS AND BOOTSTRAP -->
         <link rel="stylesheet" href="https://bootswatch.com/4/pulse/bootstrap.min.css" />
-        <link rel="stylesheet" href="assets/css/arcadium.css" />
-        <link rel="icon" type="image/png" href="assets/img/etc.png">
+        <link rel="stylesheet" href="/assets/css/arcadium.css" />
+        <link rel="icon" type="image/png" href="/assets/img/etc.png">
 
         <!-- FontAwesome -->
         <script src="https://kit.fontawesome.com/f352960784.js" crossorigin="anonymous"></script>
     </head>
 
     <body class="wallpaper">
-        <?php include('modules/navbar.php'); ?>
+        <?php include('/modules/navbar.php'); ?>
 
         <!-- SPACING OF 5 BR'S NECESSARY FOR TOP OF CONTENT TO SHOW WITH STICKY NAVBAR. -->
         <br /><br /><br /><br /><br />
