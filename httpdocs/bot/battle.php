@@ -15,7 +15,7 @@ $conn = new mysqli($servername, $username, $password);
 if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 }
-mysql_select_db('arcadium_battles', $conn);
+echo mysql_select_db('arcadium_battles', $conn);
 ?>
 
 <!DOCTYPE html>
