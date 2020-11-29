@@ -80,14 +80,7 @@ if ($conn->connect_error) {
                             if ($result->num_rows > 0) {
                               // output data of each row
                               while($row = $result->fetch_assoc()) {
-                                ?>
-                                <tr>
-                                  <td><?php $row["fight_id"]?></td>
-                                  <td><?php $row["first"]?></td>
-                                  <td><?php $row["second"]?></td>
-                                  <td><?php $row["winner"]?></td>
-                                </tr>
-                                <?php
+                                echo '<tr><td>' . $row['fight_id'] . '</td><td>' . $row['first'] . '</td><td>' . $row['second'] . '</td><td>' . $row['winner'] . '</td></tr>';
                               }
                             }
                           }
