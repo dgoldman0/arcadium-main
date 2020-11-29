@@ -63,7 +63,7 @@ if ($conn->connect_error) {
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Battle History</div>
                     <div class="card-body text-white">
-                      <table>
+                      <table class = "table">
                         <tr>
                           <th>Channel</th>
                           <th>Battle ID</th>
@@ -76,6 +76,7 @@ if ($conn->connect_error) {
                           if (isset($channel)) {
                             $sql = "SELECT * FROM battles WHERE channel = \'" + $channel  + "\'";
                           }
+                          echo 'SQL: ' + $sql;
                           $result = $conn->query($sql);
                           if ($result->num_rows > 0) {
                             // output data of each row

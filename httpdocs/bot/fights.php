@@ -65,7 +65,7 @@ if ($conn->connect_error) {
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Battle History</div>
                     <div class="card-body text-white">
-                      <table>
+                      <table class = "table">
                         <tr>
                           <th>Fight ID</th>
                           <th>Player 1</th>
