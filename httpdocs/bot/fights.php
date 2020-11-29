@@ -3,10 +3,12 @@ I want to allow someone to enter a custom token address. That one will be easy t
 
 It might also be interesting to allow people to create their own contract without coding, using a basic form to enter some details, kind of like JustSwap. I'd have to learn how to custom compile code though.
 -->
+
+<!-- Obviously this needs to be moved to an import that isn't saved on Github-->
 <?php
 $servername = "98.15.196.137";
 $username = "arcadium";
-$password = "4R7xsg^2";
+$password = "password";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
