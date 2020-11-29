@@ -76,7 +76,9 @@ if ($conn->connect_error) {
                           if (isset($channel)) {
                             $sql = "SELECT * FROM battles WHERE channel = \'" + $channel  + "\'";
                           }
-                          echo 'SQL: ' + $sql;
+                          echo $channel;
+                          echo "<br/>";
+                          echo $sql;
                           $result = $conn->query($sql);
                           if ($result->num_rows > 0) {
                             // output data of each row
