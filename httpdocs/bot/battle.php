@@ -77,16 +77,15 @@ if ($conn->connect_error) {
                             $sql = "SELECT * FROM battles WHERE channel = \'" . $channel . "\'";
                           }
                           $result = $conn->query($sql);
-                          echo $result->num_rows;
                           if ($result->num_rows > 0) {
                             // output data of each row
                             while($row = $result->fetch_assoc()) {
                               ?>
                               <tr>
-                                <td>$row["Channel"]</td>
-                                <td>$row["battle_id"]</td>
-                                <td>$row["type"]</td>
-                                <td>$row["winner"]</td>
+                                <td><?$row["Channel"]?></td>
+                                <td><?$row["battle_id"]?></td>
+                                <td><?$row["type"]?></td>
+                                <td><?$row["winner"]?></td>
                               </tr>
                               <?php
                             }
