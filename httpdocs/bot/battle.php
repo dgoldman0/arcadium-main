@@ -82,10 +82,10 @@ if ($conn->connect_error) {
                             while($row = $result->fetch_assoc()) {
                               ?>
                               <tr>
-                                <td><?$row["Channel"]?></td>
-                                <td><?$row["battle_id"]?></td>
-                                <td><?$row["type"]?></td>
-                                <td><?$row["winner"]?></td>
+                                <td><?php $row["Channel"]?></td>
+                                <td><?php $row["battle_id"]?></td>
+                                <td><?php $row["type"]?></td>
+                                <td><?php $row["winner"]?></td>
                               </tr>
                               <?php
                             }
