@@ -66,22 +66,24 @@ echo "Connected successfully";
                     <div class="card-body text-white">
                       <table>
                         <tr>
-                          <th>Battle ID</th>
-                          <th>Battle Type</th>
+                          <th>Fight ID</th>
+                          <th>Player 1</th>
+                          <th>Player 2</th>
                           <th>Winner</th>
                         </tr>
                         <?php
-                          $channel = $_GET["channel"];
-                          if (isset($channel)) {
-                            $sql = "SELECT * FROM battles WHERE channel = \'" + $channel  + "\'";
+                          $battle_id = $_GET["battle_id"];
+                          if (isset($battle_id)) {
+                            $sql = "SELECT * FROM fights WHERE battle_id = \'" + $battle_id  + "\'";
                             $result = $conn->query($sql);
                             if ($result->num_rows > 0) {
                               // output data of each row
                               while($row = $result->fetch_assoc()) {
                                 ?>
                                 <tr>
-                                  <td>$row["battle_id"]</td>
-                                  <td>$row["type"]</td>
+                                  <td>$row["fight_id"]</td>
+                                  <td>$row["first"]</td>
+                                  <td>$row["second"]</td>
                                   <td>$row["winner"]</td>
                                 </tr>
                                 <?php
