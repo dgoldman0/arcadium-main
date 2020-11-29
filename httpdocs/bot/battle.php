@@ -6,7 +6,7 @@ It might also be interesting to allow people to create their own contract withou
 <?php
 $servername = "98.15.196.137";
 $username = "arcadium";
-$password = "4R7xsg^2";
+$password = "password";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
@@ -66,26 +66,29 @@ echo "Connected successfully";
                     <div class="card-body text-white">
                       <table>
                         <tr>
+                          <th>Channel</th>
                           <th>Battle ID</th>
                           <th>Battle Type</th>
                           <th>Winner</th>
                         </tr>
                         <?php
                           $channel = $_GET["channel"];
+                          $sql = "SELECT * FROM battles";
                           if (isset($channel)) {
                             $sql = "SELECT * FROM battles WHERE channel = \'" + $channel  + "\'";
-                            $result = $conn->query($sql);
-                            if ($result->num_rows > 0) {
-                              // output data of each row
-                              while($row = $result->fetch_assoc()) {
-                                ?>
-                                <tr>
-                                  <td>$row["battle_id"]</td>
-                                  <td>$row["type"]</td>
-                                  <td>$row["winner"]</td>
-                                </tr>
-                                <?php
-                              }
+                          }
+                          $result = $conn->query($sql);
+                          if ($result->num_rows > 0) {
+                            // output data of each row
+                            while($row = $result->fetch_assoc()) {
+                              ?>
+                              <tr>
+                                <td>$row["Channel"]</td>
+                                <td>$row["battle_id"]</td>
+                                <td>$row["type"]</td>
+                                <td>$row["winner"]</td>
+                              </tr>
+                              <?php
                             }
                           }
                         ?>
