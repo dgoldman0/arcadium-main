@@ -74,12 +74,10 @@ if ($conn->connect_error) {
                           $channel = $_GET["channel"];
                           $sql = "SELECT * FROM battles";
                           if (isset($channel)) {
-                            $sql = "SELECT * FROM battles WHERE channel = \'" + $channel  + "\'";
+                            $sql = "SELECT * FROM battles WHERE channel = \'" . $channel . "\'";
                           }
-                          echo $channel;
-                          echo "<br/>";
-                          echo $sql;
                           $result = $conn->query($sql);
+                          echo $result;
                           if ($result->num_rows > 0) {
                             // output data of each row
                             while($row = $result->fetch_assoc()) {
