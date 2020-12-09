@@ -38,7 +38,7 @@ It might also be interesting to allow people to create their own contract withou
                     <div class="row">
                         <div class="col text-left">
                             <h1 class="text-white">Content for Creators</h1>
-                            <p class="text-success">Arcadium is building a collection of resources that streamers and other content creators can use, without worrying about copyright issues. This collection will continue to grow over time. If you're interested in contributing, feel free to contact the project lead, <a href = "mailto:contact@danielgoldman.us">Daniel Goldman</a>. Content will include free to use background music, overlays for streams, and more.</p>
+                            <p class="text-success">Arcadium is building a collection of resources that streamers and other content creators can use, without worrying about copyright issues. This collection will continue to grow over time. Content will include free to use background music, overlays for streams, and more.</p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@ It might also be interesting to allow people to create their own contract withou
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Battle History</div>
                     <div class="card-body text-white">
-                      This page is currently a work in progress. Making assets available to everyone is a new part of the Arcadium project. Check back frequently for updates.
+                      This page is currently a work in progress. Making assets available to everyone is a new part of the Arcadium project. Check back frequently for updates. If you're interested in contributing, feel free to contact the project lead, <a href = "mailto:contact@danielgoldman.us">Daniel Goldman</a>.
                     </div>
                   </div>
                 </div>
