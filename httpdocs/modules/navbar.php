@@ -6,6 +6,15 @@
         </button>
 
         <div class="collapse navbar-collapse" id="navbarColor02">
+          <ul class="navbar-nav mr-auto">
+              <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-toolbox text-white"></i> Resources</a>
+                  <div class="dropdown-menu bg-primary" aria-labelledby="dropdown08">
+                    <a class="dropdown-item text-white" href="/bot.php" target="_blank"><i class="fas fa-toolbox text-white"></i> Twitch Bot</a><
+                    <a class="dropdown-item text-white" href="/resources.php" target="_blank"><i class="fas fa-toolbox text-white"></i> Creator Resources</a><
+                  </div>
+              </li>
+          </ul>
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-toolbox text-white"></i> External</a>
@@ -17,7 +26,6 @@
             </ul>
 
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link" href="/bot.php" target="_blank"><i class="fas fa-toolbox text-white"></i> Twitch Bot</a></li>
                 <li class="nav-item"><a class="nav-link" href="https://twitter.com/arcadium0" target="_blank"><i class="fab fa-twitter text-white"></i> Twitter</a></li>
                 <li class="nav-item"><a class="nav-link" href="/wrld-whitepaper.pdf" target="_blank"><i class="fas fa-file-contract text-white"></i> Whitepaper</a></li>
                 <!--<li class="nav-item"><a class="nav-link" href="https://github.com/#" target="_blank"><i class="fab fa-github text-white"></i> GitHub</a></li>
