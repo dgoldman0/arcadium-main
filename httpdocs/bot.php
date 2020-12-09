@@ -55,14 +55,15 @@ It might also be interesting to allow people to create their own contract withou
                       <b>Twitch: </b> <a href = "https://www.twitch.tv/arcadium_bot">@arcadium_bot</a>
                     </div>
                   </div>
-                </div>
-                <div class = "col-md-6">
+              </div>
+              <div class = "col-md-6">
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Economy</div>
                     <div class="card-body text-white">
                       Arcadium Bot uses an internal "silver" based economy. Silver is similar to channel points, and can be obtained in a variety of ways, including by competing in channel battles.
                     </div>
-                </div>
+                  </div>
+              </div>
             </div>
             <div class="row">
               <div class="col-md-3">
