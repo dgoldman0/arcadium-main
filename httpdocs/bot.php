@@ -56,32 +56,11 @@ It might also be interesting to allow people to create their own contract withou
                     </div>
                   </div>
                 </div>
-                <div class="col-md-3">
-                    <div class="card glassPanel border-light rcAll">
-                      <div class="card-header glassPanel text-white rcTop">Basic Commands</div>
-                      <div class="card-body text-white">
-                        !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
-                        <br/>
-                        <br/>
-                        !shoo - If I'm in your channel and want me to leave, no problem.
-                      </div>
-                    </div>
-                </div>
-                <div class="col-md-3">
-                    <div class="card glassPanel border-light rcAll">
-                      <div class="card-header glassPanel text-white rcTop">Pog Evolutions</div>
-                      <div class="card-body text-white">
-                        This is a very simple game where you can vote for various pog evolution forms.
-                        <br/>
-                        <br/>
-                        !ereset - Used by channel mods to reset voting
-                        <br/>
-                        <br/>
-                        !elist - List current voting results
-                        <br/>
-                        <br/>
-                        !evote from to - Take a vote from one evolution and give it to another
-                      </div>
+                <div class = "col-md-6">
+                  <div class="card glassPanel border-light rcAll">
+                    <div class="card-header glassPanel text-white rcTop">Economy</div>
+                    <div class="card-body text-white">
+                      Arcadium Bot uses an internal "silver" based economy. Silver is similar to channel points, and can be obtained in a variety of ways, including by competing in channel battles.
                     </div>
                 </div>
             </div>
@@ -91,6 +70,8 @@ It might also be interesting to allow people to create their own contract withou
                   <div class="card-header glassPanel text-white rcTop">Tournaments</div>
                   <div class="card-body text-white">
                     This is a work in progress battle simulator. Right now there's only one option: single elimination tournaments. Eventually there will be more options, you'll be able to rank up as a player, and you'll eventually get rewards too.<hr/>
+                    Battle results are given in channel, but the full battle details can be found <a href = "http://arcadium.fun/bot/battle.php">here</a>.
+                    <hr/>
                     !newbattle [players] - a mod can start a new battle for the channel
                     <br/></br>
                     !brawl - join a battle that's waiting to start
@@ -114,6 +95,34 @@ It might also be interesting to allow people to create their own contract withou
                   </div>
                 </div>
               </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card glassPanel border-light rcAll">
+                  <div class="card-header glassPanel text-white rcTop">Basic Commands</div>
+                  <div class="card-body text-white">
+                    !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
+                    <br/>
+                    <br/>
+                    !shoo - If I'm in your channel and want me to leave, no problem.
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card glassPanel border-light rcAll">
+                  <div class="card-header glassPanel text-white rcTop">Pog Evolutions</div>
+                  <div class="card-body text-white">
+                    This is a very simple game where you can vote for various pog evolution forms.
+                    <br/>
+                    <br/>
+                    !ereset - Used by channel mods to reset voting
+                    <br/>
+                    <br/>
+                    !elist - List current voting results
+                    <br/>
+                    <br/>
+                    !evote from to - Take a vote from one evolution and give it to another
+                  </div>
+                </div>
             </div>
         </div>
 
