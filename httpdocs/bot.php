@@ -78,6 +78,8 @@ It might also be interesting to allow people to create their own contract withou
                   </div>
                 </div>
               </div>
+            </div>
+            <div class="row">
               <div class="col-md-3">
                 <div class="card glassPanel border-light rcAll">
                   <div class="card-header glassPanel text-white rcTop">Food Options</div>
