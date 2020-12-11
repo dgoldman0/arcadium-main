@@ -6,21 +6,15 @@
         </button>
 
         <div class="collapse navbar-collapse" id="navbarColor02">
-          <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav mr-auto">
               <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" id="dropdown08" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-toolbox text-white"></i> Resources</a>
                   <div class="dropdown-menu bg-primary" aria-labelledby="dropdown08">
                     <a class="dropdown-item text-white" href="/bot.php" target="_blank"><i class="fas fa-toolbox text-white"></i> Twitch Bot</a><
                     <a class="dropdown-item text-white" href="/resources.php" target="_blank"><i class="fas fa-toolbox text-white"></i> Creator Resources</a><
-                  </div>
-              </li>
-          </ul>
-          <ul class="navbar-nav mr-auto">
-              <li class="dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-toolbox text-white"></i> External</a>
-                  <div class="dropdown-menu bg-primary" aria-labelledby="dropdown04">
-                      <a class="dropdown-item text-white" href="https://wrldcoin.io"> World Builder</a>
-                      <a class="dropdown-item text-white" href="https://nolex.org/main/ARCTRX.html?ref=5f27039c6766fa6f943137be"> ARC on NoleX</a>
+                    <hr/>
+                    <a class="dropdown-item text-white" href="https://wrldcoin.io"> World Builder</a>
+                    <a class="dropdown-item text-white" href="https://nolex.org/main/ARCTRX.html?ref=5f27039c6766fa6f943137be"> ARC on NoleX</a>
                   </div>
               </li>
           </ul>
