@@ -43,7 +43,7 @@ It might also be interesting to allow people to create their own contract withou
                     </div>
                 </div>
             </div>
-
+            </br></br>
             <div class="row">
               <div class="col-md-6">
                   <div class="card glassPanel border-light rcAll">
@@ -65,7 +65,7 @@ It might also be interesting to allow people to create their own contract withou
                   </div>
               </div>
             </div>
-            </hr>
+            </br></br>
             <div class="row">
               <div class="col-md-3">
                 <div class="card glassPanel border-light rcAll">
