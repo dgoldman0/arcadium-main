@@ -75,9 +75,8 @@ if ($conn->connect_error) {
                         <?php
                           $battle_id = $_GET["battle_id"];
                           if (isset($battle_id)) {
-                            $sql = "SELECT * FROM fights WHERE battle_id = " + $battle_id;
+                            $sql = "SELECT * FROM fights WHERE battle_id = " . $battle_id;
                             $result = $conn->query($sql);
-                            echo $results->num_rows;
                             if ($result->num_rows > 0) {
                               // output data of each row
                               while($row = $result->fetch_assoc()) {
