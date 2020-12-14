@@ -6,7 +6,7 @@ It might also be interesting to allow people to create their own contract withou
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Arcadium Engine</title>
+        <title>Arcadium Twitch Bot</title>
 
         <!-- CHARSET AND VIEWPORT METAS AT THE TOP, BELOW TITLE ALWAYS. -->
         <meta charset="utf8">
