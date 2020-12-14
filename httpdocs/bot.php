@@ -59,13 +59,24 @@ It might also be interesting to allow people to create their own contract withou
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Economy</div>
                     <div class="card-body text-white">
-                      Arcadium Bot uses an internal "silver" based economy. Silver is similar to channel points, and can be obtained in a variety of ways, including by competing in channel battles.
+                      Arcadium Bot uses an internal "silver" based economy. Silver is similar to channel points, and can be obtained in a variety of ways, including by competing in channel battles. Each channel has its own version of silver, just like each channel has its own channel points. However, some commands need silver from Arcadium_bot's own stream. To collect silver, channel owners can compete in battles in Arcadium_bot's stream, or get tips.
                     </div>
                   </div>
               </div>
             </div>
             </br></br>
             <div class="row">
+              <div class="col-md-3">
+                  <div class="card glassPanel border-light rcAll">
+                    <div class="card-header glassPanel text-white rcTop">Basic Commands</div>
+                    <div class="card-body text-white">
+                      !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
+                      <br/>
+                      <br/>
+                      !shoo - If I'm in your channel and want me to leave, no problem.
+                    </div>
+                  </div>
+              </div>
               <div class="col-md-3">
                 <div class="card glassPanel border-light rcAll">
                   <div class="card-header glassPanel text-white rcTop">Tournaments</div>
@@ -98,17 +109,6 @@ It might also be interesting to allow people to create their own contract withou
                     !nomu - Serve a random alcoholic beverage. Drink responsibly
                   </div>
                 </div>
-              </div>
-              <div class="col-md-3">
-                  <div class="card glassPanel border-light rcAll">
-                    <div class="card-header glassPanel text-white rcTop">Basic Commands</div>
-                    <div class="card-body text-white">
-                      !join channel - Type this in my chat to have me join a channel. Your username must match the channel name (prevents spamming).
-                      <br/>
-                      <br/>
-                      !shoo - If I'm in your channel and want me to leave, no problem.
-                    </div>
-                  </div>
               </div>
               <div class="col-md-3">
                   <div class="card glassPanel border-light rcAll">
