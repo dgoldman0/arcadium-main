@@ -47,7 +47,7 @@ It might also be interesting to allow people to create their own contract withou
             <div class="row">
               <div class="col-md-12">
                   <div class="card glassPanel border-light rcAll">
-                    <div class="card-header glassPanel text-white rcTop">Battle History</div>
+                    <div class="card-header glassPanel text-white rcTop">Temporary Info</div>
                     <div class="card-body text-white">
                       This page is currently a work in progress. Making assets available to everyone is a new part of the Arcadium project. Check back frequently for updates. If you're interested in contributing, feel free to contact the project lead, <a href = "mailto:contact@danielgoldman.us">Daniel Goldman</a>.
                     </div>
