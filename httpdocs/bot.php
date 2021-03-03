@@ -79,6 +79,18 @@ It might also be interesting to allow people to create their own contract withou
               </div>
               <div class="col-md-3">
                 <div class="card glassPanel border-light rcAll">
+                  <div class="card-header glassPanel text-white rcTop">Custom Commands</div>
+                  <div class="card-body text-white">
+                  It's possible to add custom commands to your channel. Customization is limited right now, but will improve in the future.
+                  <hr/>
+                  !addcommand [command-name] [command] - Creates a new command ![command-name] with text [command]. The maximum length of the command is roughly 5,000 characters.
+                  <br/></br>
+                  !remove [command-name] - removes custom command ![command-name] from the system.
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="card glassPanel border-light rcAll">
                   <div class="card-header glassPanel text-white rcTop">Tournaments</div>
                   <div class="card-body text-white">
                     This is a work in progress battle simulator. Right now there's only one option: single elimination tournaments. Eventually there will be more options, you'll be able to rank up as a player, and you'll eventually get rewards too.<hr/>
