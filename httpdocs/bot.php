@@ -66,7 +66,7 @@ It might also be interesting to allow people to create their own contract withou
             </div>
             </br></br>
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-3">
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Basic Commands</div>
                     <div class="card-body text-white">
@@ -89,7 +89,7 @@ It might also be interesting to allow people to create their own contract withou
                   </div>
                 </div>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-5">
                 <div class="card glassPanel border-light rcAll">
                   <div class="card-header glassPanel text-white rcTop">Tournaments</div>
                   <div class="card-body text-white">
