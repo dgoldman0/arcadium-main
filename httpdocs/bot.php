@@ -107,6 +107,22 @@ It might also be interesting to allow people to create their own contract withou
             <div class="row">
               <div class="col-md-3">
                 <div class="card glassPanel border-light rcAll">
+                  <div class="card-header glassPanel text-white rcTop">Counter</div>
+                  <div class="card-body text-white">
+                    Arcadium has a built in counter function. It's pretty easy to use but might be a little confusing if you're used to other bots. Counters start with a dollar sign($). All counters start at 0 by default.
+                    <hr/>
+                    $[counter] +[value] - add [value] to counter named [counter]. This value will be converted to an integer even if a deciminal is used.
+                    <br/><br/>
+                    $[counter] =[value] - set [counter] to [value]
+                    <br/><br/>
+                    $[counter] - get the current value of counter.
+                    <br/><br/>
+                    Example: $deaths +1 will create a death counter and add 1 to it.
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="card glassPanel border-light rcAll">
                   <div class="card-header glassPanel text-white rcTop">Food Options</div>
                   <div class="card-body text-white">
                     !omakase - Serve a random type of sushi
