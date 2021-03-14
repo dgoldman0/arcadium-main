@@ -50,7 +50,7 @@ It might also be interesting to allow people to create their own contract withou
                     <div class="card-body text-white">
                       Arcadium_bot is a Twitch bot developed for the Arcadium project. It's still in its early stages of development, but will be available for use by anyone who wants it. Additionally, there will be numerous features that can be used only on Arcadium_bot's own stream, which will eventually stream continuously in the future.
                       <br/>
-                      <img src = "/assets/img/Arcadium.png" height = "300px"/>
+                      <center><img src = "/assets/img/Arcadium.png" height = "300px"/></center>
                       <br/>
                       <b>Twitch: </b> <a href = "https://www.twitch.tv/arcadium_bot">@arcadium_bot</a>
                     </div>
