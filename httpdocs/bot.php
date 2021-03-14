@@ -50,6 +50,7 @@ It might also be interesting to allow people to create their own contract withou
                     <div class="card-body text-white">
                       Arcadium_bot is a Twitch bot developed for the Arcadium project. It's still in its early stages of development, but will be available for use by anyone who wants it. Additionally, there will be numerous features that can be used only on Arcadium_bot's own stream, which will eventually stream continuously in the future.
                       <br/>
+                      <img src = "/assets/img/Arcadium.png"/>
                       <br/>
                       <b>Twitch: </b> <a href = "https://www.twitch.tv/arcadium_bot">@arcadium_bot</a>
                     </div>
@@ -111,13 +112,11 @@ It might also be interesting to allow people to create their own contract withou
                   <div class="card-body text-white">
                     Arcadium has a built in counter function. It's pretty easy to use but might be a little confusing if you're used to other bots. Counters start with a dollar sign($). All counters start at 0 by default.
                     <hr/>
+                    $[counter] - start a new counter or get the current value of counter, if it already exists.
+                    <br/><br/>
                     $[counter] +[value] - add [value] to counter named [counter]. This value will be converted to an integer even if a deciminal is used.
                     <br/><br/>
                     $[counter] =[value] - set [counter] to [value]
-                    <br/><br/>
-                    $[counter] - get the current value of counter.
-                    <br/><br/>
-                    Example: $deaths +1 will create a death counter and add 1 to it.
                   </div>
                 </div>
               </div>
