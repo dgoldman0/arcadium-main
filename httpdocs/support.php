@@ -46,20 +46,9 @@ It might also be interesting to allow people to create their own contract withou
             <div class="row">
               <div class="col-md-6">
                   <div class="card glassPanel border-light rcAll">
-                    <div class="card-header glassPanel text-white rcTop">About</div>
+                    <div class="card-header glassPanel text-white rcTop">Ways You Can Help</div>
                     <div class="card-body text-white">
-                      Arcadium_bot is a Twitch bot developed for the Arcadium project. It's still in its early stages of development, but will be available for use by anyone who wants it. Additionally, there will be numerous features that can be used only on Arcadium_bot's own stream, which will eventually stream continuously in the future.
-                      <br/>
-                      <br/>
-                      <b>Twitch: </b> <a href = "https://www.twitch.tv/arcadium_bot">@arcadium_bot</a>
-                    </div>
-                  </div>
-              </div>
-              <div class = "col-md-6">
-                  <div class="card glassPanel border-light rcAll">
-                    <div class="card-header glassPanel text-white rcTop">Economy</div>
-                    <div class="card-body text-white">
-                      Arcadium Bot uses an internal "silver" based economy. Silver is similar to channel points, and can be obtained in a variety of ways, including by competing in channel battles. Each channel has its own version of silver, just like each channel has its own channel points. However, some commands need silver from Arcadium_bot's own stream. To collect silver, channel owners can compete in battles in Arcadium_bot's stream, or get tips.
+                      
                     </div>
                   </div>
               </div>
