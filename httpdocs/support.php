@@ -53,15 +53,6 @@ It might also be interesting to allow people to create their own contract withou
                         <li>We could use financial support as well, and happily accept donations.</li>
                       </ul>
                       <hr/>
-                      <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-                      <script>
-                        kofiWidgetOverlay.draw('arcadium', {
-                          'type': 'floating-chat',
-                          'floating-chat.donateButton.text': 'Support Us',
-                          'floating-chat.donateButton.background-color': '#ff5f5f',
-                          'floating-chat.donateButton.text-color': '#fff'
-                        });
-                      </script>
                     </div>
                   </div>
               </div>
