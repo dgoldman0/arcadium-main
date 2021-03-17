@@ -48,7 +48,20 @@ It might also be interesting to allow people to create their own contract withou
                   <div class="card glassPanel border-light rcAll">
                     <div class="card-header glassPanel text-white rcTop">Ways You Can Help</div>
                     <div class="card-body text-white">
-                      
+                      <ul>
+                        <li>We need people who are willing to <a href = "http://arcadium.fun/resources.php">donate resources</a>, such as copyright free background music and images, so content creators don't have to spend as much to get started.</li>
+                        <li>We could use financial support as well, and happily accept donations.</li>
+                      </ul>
+                      <hr/>
+                      <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+                      <script>
+                        kofiWidgetOverlay.draw('arcadium', {
+                          'type': 'floating-chat',
+                          'floating-chat.donateButton.text': 'Support Us',
+                          'floating-chat.donateButton.background-color': '#ff5f5f',
+                          'floating-chat.donateButton.text-color': '#fff'
+                        });
+                      </script>
                     </div>
                   </div>
               </div>
