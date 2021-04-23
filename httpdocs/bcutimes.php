@@ -49,7 +49,7 @@ It might also be interesting to allow people to create their own contract withou
                     <div class="card-header glassPanel text-white rcTop">About the BCU Times</div>
                     <div class="card-body text-white">
                       The BCU Times is a publication that functions in cooperation with Arcadium and The World Builder Initiative. Distribution of this publication is through Medium, a global blogging platform. We don't generally talk about fiancial analysis. Instead, we have two goals: to report on events in the blockchain gaming industry and to discuss how blockchain technology can improve society.
-                      <br/>
+                      <br/><br/>
                       Join us on <a href = "https://medium.com/b-c-times">Medium</a> and follow us on <a href = "https://www.facebook.com/bcutimes/">Facebook</a> and <a href = "https://twitter.com/BCUTimes">Twitter</a>.
                     </div>
                   </div>
