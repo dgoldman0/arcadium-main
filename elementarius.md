@@ -39,11 +39,13 @@ Elements will also be used to create land and grow the world of Elementarius. Th
 
 ## Creature Battles & Play to Earn
 
-Like with many blockchain based games, creatures will be used to compete with other players. Creatures can simply be purchased from other players who create them, or they can be created from the elements themselves.
+Like with many blockchain based games, creatures will be used to compete with other players. Creatures can simply be purchased from other players who create them, or they can be created from the elements themselves. Each creature has its own elemental attributes which can make it stronger or weaker against other opponents.
+
+Battles will be randomized but stats will make a big difference in whether the creature wins or loses.
 
 ### Equipping
 
-Creatures can be equipped with various items to make them stronger in battle.
+Creatures can be equipped with various items to make them stronger in battle. Equipment can be used to increase healing speed, total HP, resistance to various elements, and so on.
 
 ### Leagues
 
