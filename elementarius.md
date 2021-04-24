@@ -10,7 +10,7 @@ Over time, these four children of the Ur-beings started to became lonely and bor
 
 ## The Elements
 
-There are seven elements in the world of Elementarius, each controlled by its own god. These elements are used to craft items and even living beings within the world of Elementarius.
+There are seven elements in the world of Elementarius, each controlled by its own god, with the exception of Spirit, which is the unified force of all the gods. These elements are used to craft items and even living beings within the world of Elementarius.
 
 ## Players
 
