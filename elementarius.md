@@ -37,6 +37,10 @@ Elements can be used to create items and even living entities in this world. To 
 
 Elements will also be used to create land and grow the world of Elementarius. This feature will be added later, but lands will have a significant impact on the game.
 
+## Items
+
+Numerous items can be crafted from elements. Some of these items can be used as equipment. Others can be used to help to collect mana from the puzzles. For instance, there are Air, Fire, Earth, and Water stones that increase the mana generation for getting a puzzle correct. They come in various rarities: common, uncommon, rare, epic, and legendary.
+
 ## Creature Battles & Play to Earn
 
 Like with many blockchain based games, creatures will be used to compete with other players. Creatures can simply be purchased from other players who create them, or they can be created from the elements themselves. Each creature has its own elemental attributes which can make it stronger or weaker against other opponents.
