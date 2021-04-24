@@ -39,7 +39,11 @@ Elements will also be used to create land and grow the world of Elementarius. Th
 
 ## Items
 
-Numerous items can be crafted from elements. Some of these items can be used as equipment. Others can be used to help to collect mana from the puzzles. For instance, there are Air, Fire, Earth, and Water stones that increase the mana generation for getting a puzzle correct. They come in various rarities: common, uncommon, rare, epic, and legendary.
+Numerous items can be crafted from elements. Some of these items can be used as equipment. Others can be used to help to collect mana from the puzzles.
+
+### Mana Stones
+
+There are Air, Fire, Earth, and Water stones that increase the mana generation for getting a puzzle correct. They come in various rarities: common, uncommon, rare, epic, and legendary. These items can be crafted from mana, purchased from the market, or obtained by opening mana packs. Lower quality stones can also be broken down for mana or combined together to create more powerful mana stones.
 
 ## Creature Battles & Play to Earn
 
