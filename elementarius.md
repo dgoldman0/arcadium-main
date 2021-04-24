@@ -43,7 +43,9 @@ Numerous items can be crafted from elements. Some of these items can be used as 
 
 ### Mana Stones
 
-There are Air, Fire, Earth, and Water stones that increase the mana generation for getting a puzzle correct. They come in various rarities: common, uncommon, rare, epic, and legendary. These items can be crafted from mana, purchased from the market, or obtained by opening mana packs. Lower quality stones can also be broken down for mana or combined together to create more powerful mana stones.
+Mana stones are crystalized mana. Depending on how they form, these stones can help with puzzles or be used in the process of creation. There are a number of types of mana stones which serve different functions. For each type, there are Air, Fire, Earth, and Water stones. They come in various rarities: common, uncommon, rare, epic, and legendary. These items can be crafted from mana, purchased from the market, or obtained by opening mana packs. Lower quality stones can also be broken down for mana or combined together to create more powerful mana stones.
+
+Stones of insight increase the mana generation for getting a puzzle correct. Stones of creation are used when creating items. Stones of life are needed when forming creatures. Whether solving puzzles of creating things in the world, players will need a common stone of the required type, at the very least. Using the stones can be tricky however, as there's always a chance that the stone will shatter.
 
 ## Creature Battles & Play to Earn
 
