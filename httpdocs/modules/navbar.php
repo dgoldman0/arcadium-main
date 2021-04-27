@@ -40,7 +40,7 @@
 
           <ul class="navbar-nav ml-auto">
               <li class="nav-item"><a class="nav-link" href="https://twitter.com/arcadium0"><i class="fab fa-twitter text-white"></i> Twitter</a></li>
-              <li class="nav-item"><a class="nav-link" href="/wrld-whitepaper.pdf"><i class="fas fa-file-contract text-white"></i> Whitepaper</a></li>
+              <li class="nav-item"><a class="nav-link" href="/whitepaper.pdf"><i class="fas fa-file-contract text-white"></i> Whitepaper</a></li>
               <!--<li class="nav-item"><a class="nav-link" href="/support_us.php"><i class="fas fa-file-contract text-white"></i> Support Us</a></li>
 
               <li class="nav-item"><a class="nav-link" href="https://github.com/#" target="_blank"><i class="fab fa-github text-white"></i> GitHub</a></li>
