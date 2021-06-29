@@ -48,6 +48,7 @@
               </div>
             </div>
           </div>
+          <br/>
           <div class="row">
             <div class="col-md-12">
               <div class="card glassPanel border-light rcAll">
@@ -55,6 +56,16 @@
               <div class="card-body text-white">
                 Titles will also have an important staking element. In order to create a title of a given rank, a user needs two things: a title of rank one higher than the one being created, and a certain amount of ARC tokens. Part of that ARC will be locked away forever. The rest will be distributed to people who hold the titles of the same rank. This process increases the value of ARC, and gives value to the titles themselves, even before considering their future utility in games.
               </div>
+            </div>
+          </div>
+        </div>
+        <br/>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="card glassPanel border-light rcAll">
+            <div class="card-header glassPanel text-white rcTop">Initial Distribution</div>
+            <div class="card-body text-white">
+              The first rank to be created will be the god titles. Because they are the highest rank, no title can craft them. Instead, new god titles will be generated only as the total number of provincials grows. At first there will only be ten god titles. One will be reserved for the founder of the project, another for World Builder itself, one for Arcadium, and a final one for the lead developer. The other six will be auctioned off. Rather than using TRX for the auction, only ARC will be allowed. This restriction is to increase the demand for ARC and to reduce complication in the auction system.
             </div>
           </div>
         </div>
