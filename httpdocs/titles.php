@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Arcadium Twitch Bot</title>
+        <title>Arcadium Titles</title>
 
         <!-- CHARSET AND VIEWPORT METAS AT THE TOP, BELOW TITLE ALWAYS. -->
         <meta charset="utf8">
@@ -44,6 +44,23 @@
                 <div class="card-header glassPanel text-white rcTop">The Basics</div>
                 <div class="card-body text-white">
                   Titles are an exciting addition coming to Arcadium in the near future. A title is a special NFT, with a few different functions. First, it shows status. Different ranks of titles will be available for purhcase or crafting. More importantly, these titles will unlock various features in many of our games. This feature makes titles fairly unique. Usually NFTs are meant to be used in a single product. Titles will be useful in a various of dapps created by Arcadium and its partners.
+                  <br/>
+                  <h1>Titles (Subject to Change)</h1>
+                  <ul>
+                    <li>God</li>
+                    <li>Angel</li>
+                    <li>Royal
+                    <li>Duke</li>
+                    <li>Marquee</li>
+                    <li>Earl</li>
+                    <li>Viscount</li>
+                    <li>Baron</li>
+                    <li>Baronet</li>
+                    <li>Knight</li>
+                    <li>Scquire</li>
+                    <li>Scholar</li>
+                    <li>Provincial</li>
+                  </ul>
                 </div>
               </div>
             </div>
