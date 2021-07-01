@@ -71,7 +71,7 @@
               <div class="card glassPanel border-light rcAll">
               <div class="card-header glassPanel text-white rcTop">Staking</div>
               <div class="card-body text-white">
-                Titles will also have an important staking element. In order to create a title of a given rank, a user needs two things: a title of rank one higher than the one being created, and a certain amount of ARC tokens. Part of that ARC will be locked away forever. The rest will be split betweeen people who hold the titles of the same rank and the title that created the one in question. This process increases the value of ARC, and gives value to the titles themselves, even before considering their future utility in games.
+                Titles will also have an important staking element. In order to create a title of a given rank, a user needs two things: a title of rank one higher than the one being created, and a certain amount of ARC tokens. Part of that ARC will be locked away forever. The rest will be split betweeen people who hold the titles of the same rank and the title that created the one in question. This process increases the value of ARC, and gives value to the titles themselves, even before considering their future utility in games. We will ensure that the privincial title will have significant use in a number of games, ensuring that it has value, even though they can't be used to create other titles.
               </div>
             </div>
           </div>
