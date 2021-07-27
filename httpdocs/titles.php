@@ -75,6 +75,7 @@
                 <hr/>
                 <ul>
                   <li>Airdrops: Airdrops of various assets, including rare game assets, will be distributed randomly to provincial titles. However, users will have to have interacted with their title (method yet to be decided) in order for them to be entered.</li>
+                </ul>
               </div>
             </div>
           </div>
