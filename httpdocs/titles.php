@@ -57,7 +57,7 @@
                     <li>Baron</li>
                     <li>Baronet</li>
                     <li>Knight</li>
-                    <li>Scquire</li>
+                    <li>Squire</li>
                     <li>Scholar</li>
                     <li>Provincial</li>
                   </ul>
