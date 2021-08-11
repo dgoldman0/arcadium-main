@@ -74,7 +74,7 @@
                 Titles will also have an important staking element. In order to create a title of a given rank, a user needs two things: a title of rank one higher than the one being created, and a certain amount of ARC tokens. Part of that ARC will be locked away forever. The rest will be split betweeen people who hold the titles of the same rank and the title that created the one in question. This process increases the value of ARC, and gives value to the titles themselves, even before considering their future utility in games. We will ensure that the privincial title will have significant use in a number of games, ensuring that it has value, even though they can't be used to create other titles.
                 <hr/>
                 <ul>
-                  <li>Airdrops: Airdrops of various assets, including rare game assets, will be distributed randomly to provincial titles. However, users will have to have interacted with their title (method yet to be decided) in order for them to be entered. Not only will this system improve user interaction with the system, but it will also reduce the issue of a "dead" title winning.</li>
+                  <li>Raffels: There will be frequent airdrops or raffels of various assets, including rare game assets. Each provincial title will be able to get one free raffle ticket (certain restrictions will apply). The raffle system will be a way for Arcadium to give back to the community, while also building more value for provincial titles, and titles in general.</li>
                 </ul>
               </div>
             </div>
