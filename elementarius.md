@@ -49,7 +49,7 @@ Stones of insight increase the mana generation for getting a puzzle correct. Sto
 
 ## Creature Battles & Play to Earn
 
-Like with many blockchain based games, creatures will be used to compete with other players. Creatures can simply be purchased from other players who create them, or they can be created from the elements themselves. Each creature has its own elemental attributes which can make it stronger or weaker against other opponents.
+Like with many blockchain based games, creatures will be used to compete with other players. Creatures can simply be purchased from other players who create them, or they can be created from the elements themselves. A provincial [title](/titles.md) will also be needed as the foundation of any creature. Each creature has its own elemental attributes which can make it stronger or weaker against other opponents.
 
 Battles will be randomized but stats will make a big difference in whether the creature wins or loses.
 
