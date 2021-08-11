@@ -28,9 +28,9 @@ One of the first ways titles will be used is through special raffle events. We'l
 
 ## Brawl
 
-One of the first uses for titles will be in a brawl system. Titles will represent heroes who can be trained. The more they're trained, the more experience and abilities they'll get, allowing them to battle more powerful foes. Elements from Elementarius will be used as the basis for training. Time, and luck will also play major factors in successful training. Titles will need to be recharged over time or they won't be able to fight.
+One of the first uses for titles will be in a brawl system, which will be part of [Elementarius](/elementarius.md). Titles will represent creatures or heroes who can be trained. The more they're trained, the more experience and abilities they'll get, allowing them to battle more powerful foes. Elements from Elementarius will be used as the basis for training. Time, and luck will also play major factors in successful training. Titles will need to be recharged over time or they won't be able to fight.
 
-Players should be careful about picking their battles. Training can lead to increased positive stats. But there are also weaknesses and other flaws that will show up, as heroes lose in combat. Luckily, special objects will be available that can help train the hero, or alter their stats in interesting ways.
+Players should be careful about picking their battles. Training can lead to increased positive stats. But there are also weaknesses and other flaws that will show up, as heroes lose in combat. Luckily, just as special objects are used to craft the initial stats of these heroes, more will be available that can help train the hero, or alter their stats in interesting ways.
 
 # Mutli-Game Governance
 
