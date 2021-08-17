@@ -32,7 +32,7 @@ One of the first uses for titles will be in a brawl system, which will be part o
 
 Players should be careful about picking their battles. Training can lead to increased positive stats. But there are also weaknesses and other flaws that will show up, as heroes lose in combat. Luckily, just as special objects are used to craft the initial stats of these heroes, more will be available that can help train the hero, or alter their stats in interesting ways.
 
-# Mutli-Game Governance
+# Multi-Game Governance
 
 One of the main features of the titles is for leveraging voting rights in multiple games. The system will work through the creation of governance interfaces, which will store governance tokens of other projects, and interface with their governance systems. The amount of leverage available will depend on how much of a project's governance tokens the interface maintains.
 
